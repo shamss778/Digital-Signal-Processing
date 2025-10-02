@@ -39,10 +39,4 @@ This repository contains MATLAB code and results for the first lab in Digital Si
 │   ├── ex9.m          # Task 9: Frame length comparison
 │   ├── ex10.m         # Task 10: Histograms of mean and power
 │   └── ex11.m         # Task 11: Spectral analysis using FFT
-├── data/
-│   ├── BREAKING NEWS.mp3            # Example audio file for tasks 7-12
-│   └── generated_data/              # Generated data for experiments
-├── results/
-│   ├── figures/                     # Plots and graphs
-│   └── logs/                        # Execution logs
 └── README.md                        # This README file
